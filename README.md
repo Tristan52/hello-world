@@ -1,2 +1,4 @@
 # hello-world
-just another repo
+Hi there
+
+This is my first commit change message
